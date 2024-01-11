@@ -1,6 +1,7 @@
 #include <bits/stdc++.h>
 using namespace std;
 
+// https://atcoder.jp/contests/past202005-open/tasks/past202005_e
 int main() {
     int n, m, q;
     cin >> n >> m >> q;

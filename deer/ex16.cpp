@@ -1,6 +1,7 @@
 #include <bits/stdc++.h>
 using namespace std;
 
+// https://atcoder.jp/contests/abc122/tasks/abc122_c
 int main() {
     int n, q;
     cin >> n >> q;
